@@ -2,5 +2,5 @@ package main
 
 func main() {}
 
-// A comment
+// Thing: A comment
 func Thing() {}
